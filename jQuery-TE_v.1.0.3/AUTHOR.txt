@@ -1,1 +1,0 @@
-﻿jQuery TE Author (http://jqueryte.com/about)This software consists of voluntary contributions made by Fatih Koca (www.fatihkoca.com.tr  - fatihkoca@me.com).
