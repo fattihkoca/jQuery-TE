@@ -1,6 +1,6 @@
 /*!
  * http://jqueryte.com
- * jQuery Text Editor 1.0.2
+ * jQuery Text Editor 1.0.6
  * Copyright (C) 2012, Fatih Koca (fatihkoca@me.com), AUTHOR.txt (http://jqueryte.com/about)
  * This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
@@ -27,8 +27,10 @@ button { background:#09C; padding:5px 15px }
 .jqte_Panel a.outdent { background-position:-154px 0 }
 .jqte_Panel a.indent { background-position:-176px 0 }
 .jqte_Panel a.strike { background-position:-198px 0 }
-.jqte_Panel a.remove { background-position:-220px 0 }
-.jqte_Panel a.rule { background-position:-242px 0 }
+.jqte_Panel a.link { background-position:-220px 0 }
+.jqte_Panel a.unlink { background-position:-242px 0 }
+.jqte_Panel a.remove { background-position:-264px 0 }
+.jqte_Panel a.rule { background-position:-286px 0 }
 .jqte_Panel a:hover, .jqte_Active { border:#CCC 1px solid !important; box-shadow:inset 0 0 2px #999; -moz-box-shadow:inset 0 0 2px #999; webkit-box-shadow:inset 0 0 2px #999; background-color:#FFF }
 .jqte_Panel a:active, .jqte_Active { background-color:#DDD !important }
 .jqte_Content { padding:15px; background:#FFF; min-height:100px; max-height:400px; overflow-y:auto; outline:none; word-wrap:break-word; -ms-word-wrap:break-word; }
