@@ -1,7 +1,7 @@
 ﻿What is jQuery TE?
 ==================
 
-jQuery TE is a jQuery plugin. It is a lightweight (14.6 KB) and very useful HTML editor. And it works with WYSIWYG model.
+jQuery TE is a jQuery plugin. It is a lightweight and very useful HTML editor. And it works with WYSIWYG model.
 
 Most importantly, it can be integrated into your system in 1 minute. And you can modify it as you want in terms of interface. Even you can change the css classes.
 
